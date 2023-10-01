@@ -13,4 +13,4 @@ I'm a passionate individual with a diverse range of interests, including Web3, f
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xTrinityy&theme=dark)](https://github.com/0xTrinityy)
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://fr.linkedin.com/in/thomas-bellenger-8b3a78288)
+- LinkedIn: [Profile](https://fr.linkedin.com/in/thomas-bellenger-8b3a78288)
