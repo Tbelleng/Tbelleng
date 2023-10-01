@@ -5,7 +5,7 @@ I'm a passionate individual with a diverse range of interests, including Web3, f
 - 💻 I have a background in computer science (currently 42Paris), with a focus on blockchain technologies.
 - 🌐 I'm excited about the possibilities of Web3 and decentralized technologies, and I'm actively involved in projects that explore this space.
 - 📈 I'm currenlty learning Rust.
-- 💹 financial markets is another area that fascinates me, looking for Quantitative developer field.
+- 💹 financial markets is another area that fascinates me, especially futures and derivatives, learning to become Quantitative developer.
 
 ## 📊 GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xTrinityy&layout=compact&langs_count=8&theme=dark)](https://github.com/0xTrinityy)
