@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Thomas! 👋
 
-<!--
-**0xTrinityy/0xTrinityy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate individual with a diverse range of interests, including Web3, finance, computer science, and technology. I'm constantly exploring the intersection of these fields and seeking new ways to innovate and create. Here's a little more about me:
 
-Here are some ideas to get you started:
+- 💻 I have a background in computer science (currently 42Paris), with a focus on blockchain technologies.
+- 🌐 I'm excited about the possibilities of Web3 and decentralized technologies, and I'm actively involved in projects that explore this space.
+- 📈 I'm currenlty learning Rust.
+- 💹 financial markets is another area that fascinates me, looking for Quantitative developer field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=dark)](https://github.com/YourUsername)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=dark)](https://github.com/YourUsername)
+
+## 📫 Let's Connect
+- LinkedIn: [Your LinkedIn Profile](https://fr.linkedin.com/in/thomas-bellenger-8b3a78288)
