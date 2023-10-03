@@ -10,7 +10,7 @@ I'm a passionate individual with a diverse range of interests, including Web3, f
 ## 📊 GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tbelleng&layout=compact&langs_count=8&theme=dark)](https://github.com/Tbelleng)
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Tbelleng&show_icons=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xTrinityy&theme=dark)](https://github.com/Tbelleng)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tbelleng&theme=dark)](https://github.com/Tbelleng)
 
 ## 📫 Let's Connect
 - LinkedIn: [Profile](https://fr.linkedin.com/in/thomas-bellenger-8b3a78288)
