@@ -1,5 +1,9 @@
 # Hello, I'm Thomas! 👋
 
+<a href="https://fr.linkedin.com/in/thomas-bellenger-8b3a78288/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
 I'm a passionate individual with a diverse range of interests, including Web3, finance, computer science, and technology. I'm constantly exploring the intersection of these fields and seeking new ways to innovate and create. Here's a little more about me:
 
 - 💻 I have a background in computer science (currently 42Paris), with a focus on blockchain technologies.
@@ -32,5 +36,3 @@ I'm a passionate individual with a diverse range of interests, including Web3, f
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Tbelleng&show_icons=true&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tbelleng&theme=dark)](https://github.com/Tbelleng)
 
-## 📫 Let's Connect
-- LinkedIn: [Profile](https://fr.linkedin.com/in/thomas-bellenger-8b3a78288)
