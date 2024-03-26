@@ -1,5 +1,7 @@
 Blockchain, finance && computer
+
 Back-end, Infra and Smart-contracts
+
 Rust && C/C++
  
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
