@@ -1,6 +1,6 @@
 Blockchain, finance && computer
 
-Back-end, Infra and Smart-contracts
+Back-end, Infra && Smart-contracts
 
 Rust && C/C++
  
