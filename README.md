@@ -12,5 +12,5 @@ Rust, Cairo && C/C++
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 ## 📊 Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tbelleng&layout=compact&langs_count=8&theme=dark)](https://github.com/Tbelleng)
+
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Tbelleng&show_icons=true&theme=dark)
