@@ -1,7 +1,5 @@
 Blockchain, Dev && Finance
 
-out of office
-
 Back-end, Infra && Smart-contracts
 
 Rust, Cairo && C/C++ 
