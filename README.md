@@ -1,4 +1,4 @@
-Blockchain, Dev && Finance
+Dev, Blockchain && Finance
 
 Back-end, Infra && Smart-contract
 
