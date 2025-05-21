@@ -1,8 +1,8 @@
-Dev, Blockchain && Finance
+Dev, Blockchain && Finance.
 
-Back-end, Infra && Smart-contract
+Back-end, Infra && Smart-contract.
 
-Rust, Solidity, Cairo, EVM/SVM && C/C++
+Rust, Solidity, Cairo, EVM/SVM && C/C++.
  
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)
